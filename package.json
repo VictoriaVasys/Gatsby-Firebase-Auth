@@ -5,7 +5,7 @@
   "author": "Robin Wieruch <wrobin@gmx.net>",
   "dependencies": {
     "firebase": "^4.8.0",
-    "gatsby": "^1.9.127",
+    "gatsby": "^5.3.3",
     "gatsby-link": "^1.6.30",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "prop-types": "^15.6.0"
